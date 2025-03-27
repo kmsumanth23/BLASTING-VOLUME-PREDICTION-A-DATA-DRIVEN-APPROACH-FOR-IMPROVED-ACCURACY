@@ -39,6 +39,7 @@ kubectl apply -f https://storage.googleapis.com/tekton-releases/pipeline/latest/
 **Add Kubernetes Credentials:**
 
 We need to add Kubernetes credentials in Jenkins because Jenkins requires:
+
 **A `kubeconfig` file or ServiceAccount token** to authenticate with the Kubernetes cluster.  
 **Proper RBAC permissions** to create/delete Tekton `PipelineRun` resources.
 
