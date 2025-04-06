@@ -32,6 +32,9 @@ This guide provides a step-by-step tutorial for integrating Tekton, a Kubernetes
 kubectl apply -f https://storage.googleapis.com/tekton-releases/pipeline/latest/release.yaml
 ```
 
+You may also follow the following [Installation tutorial](https://github.com/jenkinsci/tekton-client-plugin/blob/master/docs/installation.md) for installing Tekton on your system.
+
+
 ### 2. Configure Jenkins
 
 **Install the Tekton Client Plugin:**
