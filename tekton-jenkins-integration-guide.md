@@ -1,5 +1,7 @@
 # Tekton-Jenkins Integration Guide
 
+This guide provides a step-by-step tutorial for integrating Tekton, a Kubernetes-native CI/CD framework, with Jenkins, a popular automation server. It covers prerequisites, installation, configuration, and troubleshooting to help you set up and manage Tekton pipelines triggered from Jenkins. Follow this guide to streamline your CI/CD workflows effectively.
+
 ## 🔧 Prerequisites
 1. **Kubernetes Cluster** (choose one):
    - **Docker Desktop**:  
